@@ -9,6 +9,10 @@
 
 - 2017/09/18 - [立志在网络安全领域发展，应该如何系统学习安全知识？余弦和猪猪侠的答案](https://www.zhihu.com/question/21680381) - [本地备份](articles/web-secuity-learning-2.md)
 
+- 2017/09/19 - [我的白帽学习之旅-猪猪侠的分享](https://github.com/ring04h/papers) - [本地备份](articles/我的白帽学习路线--20170325.pdf)
+
+- 2017/09/19 - [TK关于如何网络安全学习的建议]() - [本地备份](articles/TK-Suggestion.jpg)
+
 - 2017/09/18 - [学习网络安全时遇到瓶颈了该怎么办?TK的回答](https://www.zhihu.com/question/51653098/answer/126853836) - [本地备份](articles/web-secuity-learning-3.md)
 
 ## 代码审计
