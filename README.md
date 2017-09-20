@@ -13,6 +13,8 @@
 
 - 2017/09/19 - [TK关于如何网络安全学习的建议]() - [本地备份](articles/TK-Suggestion.jpg)
 
+- 2017/09/20 - [给你一个网站你如何来渗透测试的?](https://zhuanlan.zhihu.com/p/25605198) - [本地备份](articles/pentest-practice.md)
+
 - 2017/09/18 - [学习网络安全时遇到瓶颈了该怎么办?TK的回答](https://www.zhihu.com/question/51653098/answer/126853836) - [本地备份](articles/web-secuity-learning-3.md)
 
 ## 代码审计
