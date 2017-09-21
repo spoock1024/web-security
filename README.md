@@ -18,4 +18,5 @@
 - 2017/09/18 - [学习网络安全时遇到瓶颈了该怎么办?TK的回答](https://www.zhihu.com/question/51653098/answer/126853836) - [本地备份](articles/web-secuity-learning-3.md)
 
 ## 代码审计
+- 2017/09/21 - [代码审计入门](http://sixwha1e.github.io/2016/02/16/%E4%BB%A3%E7%A0%81%E5%AE%A1%E8%AE%A1%E5%85%A5%E9%97%A8%E6%80%BB%E7%BB%93/) - [本地备份](articles/code-audit-start.md)
 - 2017/09/12 - [代码审计中常见的PHP函数总结](http://www.au1ge.xyz/2017/07/17/%E4%BB%A3%E7%A0%81%E5%AE%A1%E8%AE%A1cookbook/) - [本地备份](articles/codeaudit-functions.md)
