@@ -214,5 +214,83 @@ if(file_exists('install.lock')) {
 
 ##### 可能导致漏洞函数:str_replace()
 ```PHP
+$order_sn = str_replace($_GET['subject'],$_GET['out_trade_no']);
+$order_sn = trim($order_sn);
+if(!check_monkey($order_sn,$_GET['total_fee'])) {
+    //省略
+}
 
+function check_monkey($log_id,$monkey) {
+    $sql = "select order_amount from xx WHERE log_id='".$log_id."'";
+}
 ```
+等价于
+```PHP
+<?php
+$a = addslashes($_GET['a']);
+$b = addslashes($_GET['b']);
+echo "$a<br/>$b<br/>";
+$c = str_replace($a,'',$b);
+echo trim($c);
+>
+```
+![](img/20170921-4.jpg)
+
+##### 会话认证漏洞
+- cookie验证：没有使用SESSION验证，将信息直接保存在COOKIE中
+    1. 找到传入sql语句的参数的传递过程 回溯变量到最原始的函数 看它保存在cookie的算法是否可逆
+    2. 和MD5相比 sha1更安全 解密sha1的网站更少
+    3. 限制一个用户只能同时在一个IP登录
+- 审计代码是，查看登录处的代码
+
+##### 二次漏洞
+1. 类型
+    - 不是逻辑问题，是可信问题
+    - 业务逻辑复杂度，与二次漏洞触发率成正比
+    - 购物车 订单/引用数据/文章编辑/草稿；SQL注入/XSS
+
+2. 技巧
+    - 不受GPC保护的`$_SERVER`变量:PHP5以后，$_SERVER取到的header不再受GPC影响，就算开启特殊字符也不会被转义，存在注入；
+    - 编码问题转换：
+        1. GBK的宽字节注入：`%df'`。单引号自动被转移成`%5c`,同时`%df`与`%5c`连在一起组合成**運**字单引号依然在，成功闭合。[php与mysql交互过程中发生的编码转换问题]
+        2. mb_convert_encoding()
+        ```PHP
+        $sql = "WHERE id='".urldecode("-1%df%5c' == ")."'";
+        print_r(mb_convert_encoding($sql,"UTF-8","GBK"));
+        ```
+    - 字符串问题：
+        1. 利用报错，找到敏感信息
+        2. 字符串截断
+            1. `%00`空字符阶段(php版本小于5.3)
+            2. iconv函数字符编码转换截断，chr(128)-chr(255)可以截断字符串(php的5.4的版本都可以)
+    - php:// 输入输出流
+        ```PHP
+            include($_GET['file'])
+        ```
+        访问URL,`1.php?file=php://filter/convert.base64-encode(内容被base64编码)/resource=example.txt(远程文件`
+    
+    - php代码解析标签
+        1. `<script language="php">...</script>`
+        2. `<?...?>` php3.0.4版本后可用
+        3. `<%...%>` asp标签，需要`asp_tag=on`，默认是`off`
+    
+    - 正则表达式
+        1. 没有使用`^`和`$`限定匹配开始位置
+        2. 特殊字符未转义
+    
+    - 报错注入
+        ```PHP
+        $conn = mysql_connect("localhost","root","root");
+        mysql_select_db("test",$conn);
+        $sql1 = "select 1 from (select count(*),concat(user(),floor(rand(0)*2))x from information_schema.tables group by x) a";
+        $sql2 = "select * from user where id=1 and (extractvalue(1,concat(ox7e,(select user()))))";
+        $sql3 = "select * from user where id=1 and (updatexml(1,concat(0x7e,(select user()))),1)";
+        ```
+
+    - windows findfirstfile,利用搜索12345.txt文件，可以使用`1<<`来代替或者`12<<`，不可以单独使用一个`<`或`>`,因为单独一个只代表了一个字符，两个代表多个字符。
+
+    ## End
+    自己走上安全这条路既是兴趣也是偶然，选择白盒完全是因为喜欢php，毕竟是初识代码审计，seay的书确实帮了我不少，报作者大腿，希望这篇文章能够帮助像我一样小白的人，花了两天总结的，如果有什么缺陷也等着大家指点。
+    > 不会开发的谈审计都是耍流氓! :)
+
+
