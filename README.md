@@ -13,5 +13,6 @@
 - 2017/10/16 - [关注的安全研究人员以及日常的工作状况-P神回答](http://weibo.com/p/1005051074745063/home) - [本地备份](articles/关注的安全研究人员以及日常的工作状况-P神回答.md)
 
 ## 代码审计
+- 2017/10/17 - [论PHP常见的漏洞](http://drops.xmd5.com/static/drops/papers-4544.html) - [本地备份](articles/php-common-vulnerability.pdf)
 - 2017/09/21 - [代码审计入门](http://sixwha1e.github.io/2016/02/16/%E4%BB%A3%E7%A0%81%E5%AE%A1%E8%AE%A1%E5%85%A5%E9%97%A8%E6%80%BB%E7%BB%93/) - [本地备份](articles/code-audit-start.md)
 - 2017/09/12 - [代码审计中常见的PHP函数总结](http://www.au1ge.xyz/2017/07/17/%E4%BB%A3%E7%A0%81%E5%AE%A1%E8%AE%A1cookbook/) - [本地备份](articles/codeaudit-functions.md)
