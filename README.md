@@ -11,6 +11,7 @@
 - 2017/09/18 - [学习网络安全时遇到瓶颈了该怎么办?TK的回答](https://www.zhihu.com/question/51653098/answer/126853836) - [本地备份](articles/web-secuity-learning-3.md)
 - 2017/10/16 - [代码审计和渗透测试研究方向问题-P神回答](http://weibo.com/p/1005051074745063/home) - [本地备份](articles/代码审计和渗透测试研究方向问题-P神回答.md)
 - 2017/10/16 - [关注的安全研究人员以及日常的工作状况-P神回答](http://weibo.com/p/1005051074745063/home) - [本地备份](articles/关注的安全研究人员以及日常的工作状况-P神回答.md)
+- 2017/10/26 - [做安全研究挖不到洞很迷惘-TK的回答](https://www.zhihu.com/question/67183576/answer/250262907) - [本地备份](articles/做安全研究挖不到洞很迷惘-TK的回答.md)
 
 ## 代码审计
 - 2017/10/17 - [论PHP常见的漏洞](http://drops.xmd5.com/static/drops/papers-4544.html) - [本地备份](articles/php-common-vulnerability.pdf)
