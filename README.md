@@ -14,6 +14,9 @@
 - 2017/10/26 - [做安全研究挖不到洞很迷惘-TK的回答](https://www.zhihu.com/question/67183576/answer/250262907) - [本地备份](articles/做安全研究挖不到洞很迷惘-TK的回答.md)
 - 2017/10/29 - [安全从业的待遇-P神的回答本地备份](articles/安全从业的待遇-P神的回答.md)
 
+## 代码审计姿势
+-2017/10/29 - [PHP任意文件包含绕过截断新姿势](http://www.hackersb.cn/hacker/105.html) - [本地备份](articles/PHP任意文件包含绕过截断新姿势.md)
+
 ## 代码审计
 - 2017/10/17 - [论PHP常见的漏洞](http://drops.xmd5.com/static/drops/papers-4544.html) - [本地备份](articles/php-common-vulnerability.pdf)
 - 2017/09/21 - [代码审计入门](http://sixwha1e.github.io/2016/02/16/%E4%BB%A3%E7%A0%81%E5%AE%A1%E8%AE%A1%E5%85%A5%E9%97%A8%E6%80%BB%E7%BB%93/) - [本地备份](articles/code-audit-start.md)
