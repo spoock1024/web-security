@@ -13,6 +13,7 @@
 - 2017/10/16 - [关注的安全研究人员以及日常的工作状况-P神回答](http://weibo.com/p/1005051074745063/home) - [本地备份](articles/关注的安全研究人员以及日常的工作状况-P神回答.md)
 - 2017/10/26 - [做安全研究挖不到洞很迷惘-TK的回答](https://www.zhihu.com/question/67183576/answer/250262907) - [本地备份](articles/做安全研究挖不到洞很迷惘-TK的回答.md)
 - 2017/10/29 - [安全从业的待遇-P神的回答本地备份](articles/安全从业的待遇-P神的回答.md)
+- 2017/11/07 - [大学生如何学习信息安全技术？你是怎么走上技术这条不归路的？-肉肉的回答](https://weibo.com/ttwenda/p/show?id=2310684101567853769008) - [本地备份](articles/undergraduate-learning-security.md)
 
 ## 代码审计姿势
 -2017/10/29 - [PHP任意文件包含绕过截断新姿势](http://www.hackersb.cn/hacker/105.html) - [本地备份](articles/PHP任意文件包含绕过截断新姿势.md)
