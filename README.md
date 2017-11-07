@@ -13,7 +13,8 @@
 - 2017/10/16 - [关注的安全研究人员以及日常的工作状况-P神回答](http://weibo.com/p/1005051074745063/home) - [本地备份](articles/关注的安全研究人员以及日常的工作状况-P神回答.md)
 - 2017/10/26 - [做安全研究挖不到洞很迷惘-TK的回答](https://www.zhihu.com/question/67183576/answer/250262907) - [本地备份](articles/做安全研究挖不到洞很迷惘-TK的回答.md)
 - 2017/10/29 - [安全从业的待遇-P神的回答本地备份](articles/安全从业的待遇-P神的回答.md)
-- 2017/11/07 - [大学生如何学习信息安全技术？你是怎么走上技术这条不归路的？-肉肉的回答](https://weibo.com/ttwenda/p/show?id=2310684101567853769008) - [本地备份](articles/undergraduate-learning-security.md)
+- 2017/11/07 - [大学生如何学习信息安全技术？你是怎么走上技术这条不归路的？-肉肉的回答](https://weibo.com/ttwenda/p/show?id=2310684101567853769008
+) - [本地备份](articles/undergraduate-learning-security.md)
 
 ## 代码审计姿势
 -2017/10/29 - [PHP任意文件包含绕过截断新姿势](http://www.hackersb.cn/hacker/105.html) - [本地备份](articles/PHP任意文件包含绕过截断新姿势.md)
@@ -23,3 +24,6 @@
 - 2017/09/21 - [代码审计入门](http://sixwha1e.github.io/2016/02/16/%E4%BB%A3%E7%A0%81%E5%AE%A1%E8%AE%A1%E5%85%A5%E9%97%A8%E6%80%BB%E7%BB%93/) - [本地备份](articles/code-audit-start.md)
 - 2017/10/25 - [PHP代码审计学习](http://phantom0301.cc/2017/06/06/codeaudit/) - [本地备份](articles/PHP代码审计学习.md)
 - 2017/09/12 - [代码审计中常见的PHP函数总结](http://www.au1ge.xyz/2017/07/17/%E4%BB%A3%E7%A0%81%E5%AE%A1%E8%AE%A1cookbook/) - [本地备份](articles/codeaudit-functions.md)
+
+## 渗透测试
+- 2017/11/07 - [黑色渗透测试的一些姿势个人总结](http://bobao.360.cn/learning/detail/4664.html) - [本地备份](articles/pentest-summary.md)
