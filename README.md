@@ -27,3 +27,4 @@
 
 ## 渗透测试
 - 2017/11/07 - [黑色渗透测试的一些姿势个人总结](http://bobao.360.cn/learning/detail/4664.html) - [本地备份](articles/pentest-summary.md)
+- 2017/11/22 - [对AWVS一次简单分析](http://blog.wils0n.cn/archives/145/) - [本地备份](articles/对AWVS一次简单的分析.md)
