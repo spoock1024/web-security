@@ -25,7 +25,8 @@
 - 2018/03/15 - [如何准备web安全求职面试](https://zhuanlan.zhihu.com/p/33186518) - [本地备份](articles/interview-6.md)
 
 ## 代码审计姿势
--2017/10/29 - [PHP任意文件包含绕过截断新姿势](http://www.hackersb.cn/hacker/105.html) - [本地备份](articles/PHP任意文件包含绕过截断新姿势.md)
+- 2017/10/29 - [PHP任意文件包含绕过截断新姿势](http://www.hackersb.cn/hacker/105.html) - [本地备份](articles/PHP任意文件包含绕过截断新姿势.md)
+- 2018/02/24 - [MySQL在insert-update-delete的注入Tricks](https://www.beysec.com/security/mysql-injection-in-insert-update-delete.html) -[本地备份](articles/MySQL在insert-update-delete的注入Tricks)
 
 ## 代码审计
 - 2017/10/17 - [论PHP常见的漏洞](http://drops.xmd5.com/static/drops/papers-4544.html) - [本地备份](articles/php-common-vulnerability.pdf)
