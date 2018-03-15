@@ -16,6 +16,14 @@
 - 2017/11/07 - [大学生如何学习信息安全技术？你是怎么走上技术这条不归路的？-肉肉的回答](https://weibo.com/ttwenda/p/show?id=2310684101567853769008
 ) - [本地备份](articles/undergraduate-learning-security.md)
 
+## 安全面试
+- 2018/03/15 - [面试经验总结](https://xianzhi.aliyun.com/forum/topic/2163) - [本地备份](articles/interview-1.md)
+- 2018/03/15 - [关于安全工程师岗位的面试-exploit-cat从面试官角度给的点评](https://zhuanlan.zhihu.com/p/26985504) - [本地备份](articles/interview-2.md)
+- 2018/03/15 - [安全岗位校招面试记录](https://0x0d.im/archives/school-recruit-interview.html) - [本地备份](articles/interview-3.md)
+- 2018/03/15 - [信工所六室面试经历](https://www.jianshu.com/p/0cc697eb3d6d) - [本地备份](articles/interview-4.md)
+- 2018/03/15 - 深秋之夜360面试有感-原文链接已失效 -[本地备份](articles/interview-5.md)
+- 2018/03/15 - [如何准备web安全求职面试](https://zhuanlan.zhihu.com/p/33186518) - [本地备份](articles/interview-6.md)
+
 ## 代码审计姿势
 -2017/10/29 - [PHP任意文件包含绕过截断新姿势](http://www.hackersb.cn/hacker/105.html) - [本地备份](articles/PHP任意文件包含绕过截断新姿势.md)
 
