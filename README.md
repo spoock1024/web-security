@@ -24,6 +24,7 @@
 - 2018/03/15 - [信工所六室面试经历](https://www.jianshu.com/p/0cc697eb3d6d) - [本地备份](articles/interview-4.md)
 - 2018/03/15 - 深秋之夜360面试有感-原文链接已失效 -[本地备份](articles/interview-5.md)
 - 2018/03/15 - [如何准备web安全求职面试](https://zhuanlan.zhihu.com/p/33186518) - [本地备份](articles/interview-6.md)
+- 2018/04/08 - [Android-腾讯面试总结](https://omasko.github.io/2018/03/26/%E8%85%BE%E8%AE%AF%E9%9D%A2%E8%AF%95%E6%80%BB%E7%BB%93/) - [本地备份](articles/interview-7.md)
 
 ## 代码审计姿势
 - 2017/10/29 - [PHP任意文件包含绕过截断新姿势](http://www.hackersb.cn/hacker/105.html) - [本地备份](articles/PHP任意文件包含绕过截断新姿势.md)
