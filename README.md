@@ -17,6 +17,7 @@
 - 2017/11/07 - [大学生如何学习信息安全技术你是怎么走上技术这条不归路的-肉肉的回答](https://weibo.com/ttwenda/p/show?id=2310684101567853769008) - [本地备份](articles/undergraduate-learning-security.md)
 - 2018/04/10 - [搞安全，猥琐最重要，这就是安全之道](http://daily.zhihu.com/story/3849133) - [本地备份](articles/安全之道-云舒.md)
 - 2018/06/02 - 对安全新人建议 - [本地备份](articles/对安全新人的建议-宝宝树.md)
+- 2018/06/02 - [2018年信息安全从业者书单推荐](https://github.com/riusksk/secbook) - 无本地备份
 
 ## 安全面试
 - 2018/03/15 - [面试经验总结](https://xianzhi.aliyun.com/forum/topic/2163) - [本地备份](articles/interview-1.md)
