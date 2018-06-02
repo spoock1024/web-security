@@ -14,8 +14,9 @@
 - 2017/10/26 - [做安全研究挖不到洞很迷惘-TK的回答](https://www.zhihu.com/question/67183576/answer/250262907) - [本地备份](articles/做安全研究挖不到洞很迷惘-TK的回答.md)
 - 2018/04/08 - [做安全研究挖不动漏洞怎么办-微博-TK的回答]() - [本地备份](articles/做安全研究挖不到漏洞怎么办-TK回答.md)
 - 2017/10/29 - [安全从业的待遇-P神的回答本地备份](articles/安全从业的待遇-P神的回答.md)
-- 2017/11/07 - [大学生如何学习信息安全技术？你是怎么走上技术这条不归路的？-肉肉的回答](https://weibo.com/ttwenda/p/show?id=2310684101567853769008
-) - [本地备份](articles/undergraduate-learning-security.md)
+- 2017/11/07 - [大学生如何学习信息安全技术你是怎么走上技术这条不归路的-肉肉的回答](https://weibo.com/ttwenda/p/show?id=2310684101567853769008) - [本地备份](articles/undergraduate-learning-security.md)
+- 2018/04/10 - [搞安全，猥琐最重要，这就是安全之道](http://daily.zhihu.com/story/3849133) - [本地备份](articles/安全之道-云舒.md)
+- 2018/06/02 - 对安全新人建议 - [本地备份](articles/对安全新人的建议-宝宝树.md)
 
 ## 安全面试
 - 2018/03/15 - [面试经验总结](https://xianzhi.aliyun.com/forum/topic/2163) - [本地备份](articles/interview-1.md)
@@ -25,6 +26,10 @@
 - 2018/03/15 - 深秋之夜360面试有感-原文链接已失效 -[本地备份](articles/interview-5.md)
 - 2018/03/15 - [如何准备web安全求职面试](https://zhuanlan.zhihu.com/p/33186518) - [本地备份](articles/interview-6.md)
 - 2018/04/08 - [Android-腾讯面试总结](https://omasko.github.io/2018/03/26/%E8%85%BE%E8%AE%AF%E9%9D%A2%E8%AF%95%E6%80%BB%E7%BB%93/) - [本地备份](articles/interview-7.md)
+- 2018/04/09 - [360面试经历及心得](http://blog.5am3.com/2017/11/09/360-interview/) - [本地备份](articles/interview-9.md)
+- 2018/04/09 - [研究web安全需要达到什么水平才能去阿里实习？](https://www.zhihu.com/question/31243135) - [本地备份](articles/研究web安全需要达到什么水平才能去阿里实习.md)
+- 2018/05/01 - 腾讯面试问答 - [本地备份](articles/interview-8.png)
+- 2018/06/02 - [Web安全研究人员是如何炼成的？](https://xz.aliyun.com/t/2358) - [本地备份](articles/Web安全研究人员是如何炼成的)
 
 ## 代码审计姿势
 - 2017/10/29 - [PHP任意文件包含绕过截断新姿势](http://www.hackersb.cn/hacker/105.html) - [本地备份](articles/PHP任意文件包含绕过截断新姿势.md)
